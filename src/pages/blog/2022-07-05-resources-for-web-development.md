@@ -4,8 +4,10 @@ title: Resources for Web Development
 date: 2022-07-05T17:01:30.293Z
 description: A curated list of free web resources to kick start learning web development.
 featuredpost: true
-featuredimage: /img/blog-index.jpg
+featuredimage: /img/bg-e242bfb7.jpg
 ---
+![flavor wheel](/img/flavor_wheel.jpg)
+
 ## HTML
 
 - HTML Tutorial by W3Schools: (https://www.w3schools.com/html/)
