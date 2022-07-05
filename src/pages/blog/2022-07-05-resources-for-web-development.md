@@ -4,7 +4,7 @@ title: Resources for Web Development
 date: 2022-07-05T17:01:30.293Z
 description: A curated list of free web resources to kick start learning web development.
 featuredpost: true
-featuredimage: /img/bg-e242bfb7.jpg
+featuredimage: /img/blog-index.jpg
 ---
 ## HTML
 
