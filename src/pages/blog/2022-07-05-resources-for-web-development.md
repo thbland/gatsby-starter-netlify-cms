@@ -6,7 +6,7 @@ description: A curated list of free web resources to kick start learning web dev
 featuredpost: true
 featuredimage: /img/bg-e242bfb7.jpg
 ---
-![flavor wheel](/img/flavor_wheel.jpg)
+![flavor wheel](/img/bg-e242bfb7.jpg)
 
 ## HTML
 
