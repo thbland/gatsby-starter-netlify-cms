@@ -1,10 +1,10 @@
 ---
 templateKey: blog-post
 title: Resources for Web Development
-date: 2022-07-05T16:53:28.005Z
+date: 2022-07-05T17:01:30.293Z
 description: A curated list of free web resources to kick start learning web development.
 featuredpost: true
-featuredimage: https://syntax.tailwindui.com/_next/static/media/blur-indigo.b752cf77.png
+featuredimage: /img/bg-e242bfb7.jpg
 ---
 ## HTML
 
